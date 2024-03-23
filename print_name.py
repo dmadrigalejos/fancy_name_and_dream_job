@@ -13,4 +13,7 @@ job = input("Please input your dream job: ")
 name_art = text2art(name)
 print(name_art)
 
-# print dream jon in fancy way
+# print dream job in fancy way
+
+job_art = text2art(job)
+print(job_art)
